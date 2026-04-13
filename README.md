@@ -15,5 +15,5 @@ de informática do CSP em logística
 
 # atividade 3
 escolher um tema dos dados abertos de são Paulo e fazer 5 perguntas dos dados escolhidos
-https://github.com/Leonardacostabalieiro/planilha-veiculos
+https://github.com/Leonardacostabalieiro/planilha-veiculos/blob/main/veiculos_02-2026.xlsx
 
