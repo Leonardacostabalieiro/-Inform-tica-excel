@@ -17,3 +17,8 @@ de informática do CSP em logística
 escolher um tema dos dados abertos de são Paulo e fazer 5 perguntas dos dados escolhidos no Excel
 https://drive.google.com/drive/folders/1HaXAqX1X6YvJXZ9ixiyNcUmN3PSrA3V6
 
+
+# atividade 4
+realizar um dos cursos oferecido pela professora
+
+
