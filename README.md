@@ -13,6 +13,10 @@ de informática do CSP em logística
 [Acessar planilha receita](https://1drv.ms/x/c/1538405D4ACAB88C/IQAj0IKZRQ9ySbZ1RYudro3FAfgea1tW2RnP2n447yoZcKY?e=bHwUWM)
 ![foto](Screenshot_20260406-220842.Excel.png)
 
+# atividade 2Gráfico de Multas Pagas do Governo do Estado de São Paulo - 09/04
+[📊 Abrir Planilha](https://docs.google.com/spreadsheets/d/14oImYYvsgN--XG6L-6UVJcQLgyW57K4K/edit?usp=drivesdk)
+
+
 # atividade 3
 escolher um tema dos dados abertos de são Paulo e fazer 5 perguntas dos dados escolhidos no Excel
 https://drive.google.com/drive/folders/1HaXAqX1X6YvJXZ9ixiyNcUmN3PSrA3V6
