@@ -6,6 +6,7 @@ de informática do CSP em logística
 # atividade teste
 gráfico da Prefeitura de São José dos Campos
 [📂 Abrir Planilha](https://docs.google.com/spreadsheets/d/1qx-28JSFd4pCIbSEB9wxCx63hEhNIQjt/edit?usp=drivesdk)
+![Print do Projeto](Screenshot_20260416-213754.GitHub.png)
 
 
 
