@@ -15,6 +15,7 @@ de informática do CSP em logística
 
 # atividade 2Gráfico de Multas Pagas do Governo do Estado de São Paulo - 09/04
 [📊 Abrir Planilha](https://docs.google.com/spreadsheets/d/14oImYYvsgN--XG6L-6UVJcQLgyW57K4K/edit?usp=drivesdk)
+![Print do Projeto](Screenshot_20260416-205650.GitHub.png)
 
 
 # atividade 3
