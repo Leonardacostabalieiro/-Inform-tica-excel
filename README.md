@@ -3,6 +3,9 @@ Atividade com foco em introdução no
 programa Excel realizadas na disciplina 
 de informática do CSP em logística
 
+# atividade teste
+
+
 #  1.1 Atividade realizada com excel(planilha fornecedores)
 
 
@@ -13,7 +16,7 @@ de informática do CSP em logística
 [Acessar planilha receita](https://1drv.ms/x/c/1538405D4ACAB88C/IQAj0IKZRQ9ySbZ1RYudro3FAfgea1tW2RnP2n447yoZcKY?e=bHwUWM)
 ![foto](Screenshot_20260406-220842.Excel.png)
 
-# atividade 2Gráfico de Multas Pagas do Governo do Estado de São Paulo - 09/04
+# atividade 2 Gráfico de Multas Pagas do Governo do Estado de São Paulo - 
 [📊 Abrir Planilha](https://docs.google.com/spreadsheets/d/14oImYYvsgN--XG6L-6UVJcQLgyW57K4K/edit?usp=drivesdk)
 ![Print do Projeto](Screenshot_20260416-205650.GitHub.png)
 
