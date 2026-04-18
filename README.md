@@ -38,6 +38,11 @@ realizar um dos cursos oferecido pela professora
 
 
 
+# atividade 5
+realizar curso da escola do trabalhador 4.0 de análise de dados do power bi
+![Print do Projeto](Screenshot_20260418-123700.Chrome.png)
+
+
 
 
 
