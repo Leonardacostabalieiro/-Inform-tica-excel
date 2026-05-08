@@ -43,6 +43,12 @@ realizar curso da escola do trabalhador 4.0 de análise de dados do power bi
 ![Print do Projeto](Screenshot_20260418-123700.Chrome.png)
 
 
+# atividade 8
+tratamentos de dados formula DAX
+
+
+
+
 
 
 
