@@ -45,6 +45,7 @@ realizar curso da escola do trabalhador 4.0 de análise de dados do power bi
 # atividade 7
 usar os dados abertos de SP, escolher um deles e criar três visualizações 
 [📊 Clique aqui para aceder ao ficheiro Conjunto de Dados](https://github.com/Leonardacostabalieiro/-Inform-tica-excel/blob/main/conjunto%20de%20dados.pbix)
+![Foto](IMG_20260508_191223246.jpg)
 
 # atividade 8
 tratamentos de dados formula DAX
