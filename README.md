@@ -46,7 +46,7 @@ realizar curso da escola do trabalhador 4.0 de análise de dados do power bi
 # atividade 8
 tratamentos de dados formula DAX
 [📊 Abrir arquivo Fórmulas DAX no GitHub](https://github.com/Leonardacostabalieiro/-Inform-tica-excel/blob/main/formulas%20dax.pbix)
-
+![Foto](IMG_20260508_184718027.jpg)
 
 
 
