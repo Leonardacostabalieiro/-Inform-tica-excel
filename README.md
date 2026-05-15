@@ -56,6 +56,8 @@ tratamentos de dados formula DAX
 
 # atividade 10
 planilha sorvete vs temperatura
+[📊 Baixar Planilha: Vendas de sorvete e temperatura](./Vendas%20de%20sorvete%20e%20temperatura.csv)
+
 
 
 
