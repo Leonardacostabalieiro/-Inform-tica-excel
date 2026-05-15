@@ -68,8 +68,9 @@ Google Colab
 # atividade 11
 planilha de gráfico linear, com Excel e Google colab 
 Planilha Excel 
-[Abrir planilha](https://docs.google.com/spreadsheets/d/1S4SZKAuqh6_PZTJYRe_Egp5Q2iSEqmSW/edit?usp=drivesdk&ouid=103611473719355270893&rtpof=true&sd=true)
-![Google Planilhas](./Captura%20de%20tela_20260515-203049.Planilhas.png)
+[Abrir planilha](https://docs.google.com/spreadsheets/d/1S4SZKAuqh6_PZTJYRe_Egp5Q2iSEqmSW/edit?usp=drivesdk&ouid=103611473719355270893&rtpof=true&sd=true) 
+![Planilhas](./imagens/Captura%20de%20tela_20260515-203049.Planilhas.png)
+
 
 
 
