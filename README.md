@@ -70,6 +70,7 @@ planilha de gráfico linear, com Excel e Google colab
 Planilha Excel 
 [Abrir planilha](https://docs.google.com/spreadsheets/d/1S4SZKAuqh6_PZTJYRe_Egp5Q2iSEqmSW/edit?usp=drivesdk&ouid=103611473719355270893&rtpof=true&sd=true) 
 [Abrir no Google Colab](https://colab.research.google.com/drive/1W6sz7oED0BQljXauWBz4vigeiXT92OZT?usp=sharing)
+![Screenshot](Screenshot_20260515-203845.Chrome.png)
 
 
 
