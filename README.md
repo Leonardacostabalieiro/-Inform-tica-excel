@@ -54,6 +54,11 @@ tratamentos de dados formula DAX
 ![Captura de Tela](./Captura%20de%20tela%202026-05-14%20201240.png)
 
 
+# atividade 10
+planilha sorvete vs temperatura
+
+
+
 
 
 
