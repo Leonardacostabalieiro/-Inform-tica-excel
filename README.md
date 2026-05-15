@@ -65,6 +65,10 @@ Google Colab
 ![Visualização no Chrome](./Screenshot_20260515-202329.Chrome.png)
 
 
+# atividade 11
+planilha de gráfico linear, com Excel e Google colab 
+
+
 
 
 
