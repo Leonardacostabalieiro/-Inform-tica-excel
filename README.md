@@ -60,7 +60,8 @@ Arquivo Excel e Google colab
 
 [Abrir planilha](https://centropaulasouza-my.sharepoint.com/:x:/g/personal/leonardo_balieiro_aluno_cps_sp_gov_br/IQC7MCdzkbXSRaGAbCnPrylQAeoMGHn6dvfCeSKw9Nfpknk?email=leocbalieiro%40gmail.com&e=CODTrr)
 ![Dashboard do Excel](./Screenshot_20260515-201742.Excel.png)
-
+Google Colab
+[Abrir no Google Colab](https://colab.research.google.com/drive/11afMnBjXucy0cU-k9hQfQ_7FDDq2m31G?usp=sharing)
 
 
 
