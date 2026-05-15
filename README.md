@@ -62,6 +62,7 @@ Arquivo Excel e Google colab
 ![Dashboard do Excel](./Screenshot_20260515-201742.Excel.png)
 Google Colab
 [Abrir no Google Colab](https://colab.research.google.com/drive/11afMnBjXucy0cU-k9hQfQ_7FDDq2m31G?usp=sharing)
+![Visualização no Chrome](./Screenshot_20260515-202329.Chrome.png)
 
 
 
