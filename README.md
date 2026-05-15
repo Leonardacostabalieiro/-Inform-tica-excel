@@ -51,7 +51,8 @@ usar os dados abertos de SP, escolher um deles e criar três visualizações
 # atividade 8
 tratamentos de dados formula DAX
 [📊 Abrir arquivo Fórmulas DAX no GitHub](https://github.com/Leonardacostabalieiro/-Inform-tica-excel/blob/main/formulas%20dax.pbix)
-![Foto](IMG_20260508_184718027.jpg)
+![Captura de Tela](./Captura%20de%20tela%202026-05-14%20201240.png)
+
 
 
 
