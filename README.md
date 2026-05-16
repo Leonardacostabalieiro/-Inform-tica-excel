@@ -1,5 +1,5 @@
 # Informatica
-Atividade com foco em introdução no 
+Atividades com foco em introdução no 
 programa Excel,Power bi, python realizadas na disciplina 
 de informática do CSP em logística
 
