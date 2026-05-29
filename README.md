@@ -45,7 +45,7 @@ realizar curso da escola do trabalhador 4.0 de análise de dados do power bi
 # atividade 6
 sinistro do estado de SP
 [📊 Baixar Projeto: SINISTROSP.pbix](./SINISTROSP.pbix)
-
+![Sinistros SP](./IMG-20260529-WA0046.jpg)
 
 # atividade 7
 usar os dados abertos de SP, escolher um deles e criar três visualizações 
