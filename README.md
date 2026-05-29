@@ -78,7 +78,8 @@ planilha de gráfico linear, sobre a qualidade do vinho, com Excel e Google cola
 
 # atividade 12
 relação de vendas medias entre sorvetes e cervejas. tratamento pelo Excel e powe bi
-[📊 Baixar Projeto: tratamento power bi.pbix](https://github.com/Leonardacostabalieiro/-Inform-tica-excel/raw/principal/tratamento%20power%20bi.pbix)
+[📊 Acessar Projeto: tratamento power bi.pbix](https://github.com/Leonardacostabalieiro/-Inform-tica-excel)
+
 
 
 
