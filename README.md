@@ -50,9 +50,15 @@ sinistro do estado de SP
 # atividade 7
 usando o powerbi com os dados abertos sp trabalho-emprego-formal-municípios do estado de são Paulo para responder 2 perguntas que a professora gerou
 # 1° PERGUNTA
-
 qual ano e mês o saldo de transferência foi menor ?
 ![Saldo de Movimentação](./Screenshot_20260529-193801.GitHub.png)
+
+trabalho-emprego-formal-municípios do estado de são Paulo criando e respondendo 2 perguntas que foram criadas por nós alunos.
+
+# 1° PERGUNTA
+qual ano e mês teve o maior saldo de rejeição?
+
+resposta: o ano foi 2025 e o mês foi fevereiro.
 
 
 
