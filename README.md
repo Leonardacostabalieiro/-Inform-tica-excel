@@ -57,7 +57,7 @@ trabalho-emprego-formal-municípios do estado de são Paulo criando e respondend
 
 # 1° PERGUNTA
 qual ano e mês teve o maior saldo de rejeição?
-
+![Soma de Admissões](./Screenshot_20260529-194201.GitHub.png)
 resposta: o ano foi 2025 e o mês foi fevereiro.
 
 
