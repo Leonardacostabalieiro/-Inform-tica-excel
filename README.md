@@ -48,6 +48,15 @@ sinistro do estado de SP
 ![Sinistros SP](./IMG-20260529-WA0046.jpg)
 
 # atividade 7
+usando o powerbi com os dados abertos sp trabalho-emprego-formal-municípios do estado de são Paulo para responder 2 perguntas que a professora gerou
+# 1° PERGUNTA
+
+qual ano e mês o saldo de transferência foi menor ?
+
+
+resposta: o ano foi o 2020 e o mês foi abril.
+
+# atividade 7
 usar os dados abertos de SP, escolher um deles e criar três visualizações 
 [📊 Clique aqui para aceder ao ficheiro Conjunto de Dados](https://github.com/Leonardacostabalieiro/-Inform-tica-excel/blob/main/conjunto%20de%20dados.pbix)
 ![Captura de Tela](./Captura%20de%20tela%202026-05-14%20200418.png)
