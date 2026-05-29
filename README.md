@@ -76,7 +76,8 @@ planilha de gráfico linear, sobre a qualidade do vinho, com Excel e Google cola
 
 
 avaliação 28/05/2026
-Baixar arquivo: Indicadores de nupcialidade.pbix](./Indicadores%20de%20nupcialidade.pbix)
+[📊 Baixar Projeto: indicadores de nupcialidade.pbix](./indicadores%20de%20nupcialidade.pbix)
+
 
 
 
