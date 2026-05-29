@@ -52,6 +52,7 @@ usando o powerbi com os dados abertos sp trabalho-emprego-formal-municípios do 
 # 1° PERGUNTA
 qual ano e mês o saldo de transferência foi menor ?
 ![Saldo de Movimentação](./Screenshot_20260529-193801.GitHub.png)
+resposta: o ano foi o 2020 e o mês foi abril.
 
 trabalho-emprego-formal-municípios do estado de são Paulo criando e respondendo 2 perguntas que foram criadas por nós alunos.
 
@@ -59,10 +60,12 @@ trabalho-emprego-formal-municípios do estado de são Paulo criando e respondend
 qual ano e mês teve o maior saldo de rejeição?
 ![Soma de Admissões](./Screenshot_20260529-194201.GitHub.png)
 resposta: o ano foi 2025 e o mês foi fevereiro.
+# 2° PERGUNTA
+Qual ano e mês teve o menor saldo de depósito?
+
+resposta: o ano foi 2020 e o mês foi maio
 
 
-
-resposta: o ano foi o 2020 e o mês foi abril.
 
 # atividade 7
 usar os dados abertos de SP, escolher um deles e criar três visualizações 
