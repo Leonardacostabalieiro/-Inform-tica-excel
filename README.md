@@ -114,7 +114,7 @@ relação de vendas medias entre sorvetes e cervejas. tratamento pelo Excel e po
 # avaliação 28/05/2026
 [📊 Baixar Projeto: indicadores de nupcialidade.pbix](./indicadores%20de%20nupcialidade.pbix)
 ![Indicadores de Nupcialidade](./IMG-20260528-WA0046.jpg)
-vídeo do dasbhoard 
+vídeo do dasbhoard
 [Google Drive]
 (https://drive.google.com/file/d/1qyZiI_gWrFmM4ykC85UR99cKPWnIdc4J/view?usp=drivesdk)
 
