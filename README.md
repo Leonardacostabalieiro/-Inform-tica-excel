@@ -52,6 +52,8 @@ usando o powerbi com os dados abertos sp trabalho-emprego-formal-municípios do 
 # 1° PERGUNTA
 
 qual ano e mês o saldo de transferência foi menor ?
+![Saldo de Movimentação](./Screenshot_20260529-193801.GitHub.png)
+
 
 
 resposta: o ano foi o 2020 e o mês foi abril.
