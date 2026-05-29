@@ -62,12 +62,12 @@ qual ano e mês teve o maior saldo de rejeição?
 resposta: o ano foi 2025 e o mês foi fevereiro.
 # 2° PERGUNTA
 Qual ano e mês teve o menor saldo de depósito?
-
+![Soma de Admissões por Mês](./Screenshot_20260529-194553.GitHub.png)
 resposta: o ano foi 2020 e o mês foi maio
 
 
 
-# atividade 7
+# atividade 7.1
 usar os dados abertos de SP, escolher um deles e criar três visualizações 
 [📊 Clique aqui para aceder ao ficheiro Conjunto de Dados](https://github.com/Leonardacostabalieiro/-Inform-tica-excel/blob/main/conjunto%20de%20dados.pbix)
 ![Captura de Tela](./Captura%20de%20tela%202026-05-14%20200418.png)
